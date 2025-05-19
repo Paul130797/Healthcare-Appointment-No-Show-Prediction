@@ -1,0 +1,27 @@
+ Airbnb Dynamic Pricing Recommendation Engine
+Project Overview
+This project analyzes historical Airbnb data to recommend optimal pricing based on location, seasonality, and listing quality. It leverages Python for data analysis and modeling, Tableau for interactive dashboard visualization, and Excel for data exploration.
+Features
+
+Exploratory data analysis of Airbnb pricing by city, property type, and review metrics
+Regression model to predict optimal price based on key listing features
+Interactive Tableau dashboard with filters and a price suggestion slider
+Final report summarizing findings and recommendations
+
+Tools & Technologies
+
+Python (pandas, scikit-learn, matplotlib)
+Tableau
+Excel
+
+Usage
+Data Exploration & Cleaning
+Run notebooks in /notebooks/ to explore and clean the data.
+
+Model Training & Pricing Engine
+Execute Python scripts in /scripts/ to train the regression model and generate price recommendations.
+
+Dashboard Visualization
+Open Tableau workbook in /tableau_dashboard/ to interact with pricing suggestions.
+Report
+View the /reports/final_report.pdf for a summary of the project.
